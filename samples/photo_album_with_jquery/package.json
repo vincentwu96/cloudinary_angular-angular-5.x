@@ -20,7 +20,7 @@
     "blueimp-file-upload": "^9.22.1",
     "cloudinary-jquery-file-upload": "^2.5.0",
     "core-js": "^2.5.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-ui": "^1.12.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.2.0",
